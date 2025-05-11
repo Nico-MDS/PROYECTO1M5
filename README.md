@@ -25,7 +25,7 @@ Este proyecto es una aplicación web desarrollada con **React + Vite** que permi
 
 ## 📷 Captura de pantalla
 
-![Captura](./screenshot.png) <!-- Puedes subir una imagen o eliminar esta sección -->
+![Captura](./screenshot.png) 
 
 ## 🔧 Instalación local
 
@@ -33,3 +33,8 @@ Este proyecto es una aplicación web desarrollada con **React + Vite** que permi
 
 ```bash
 git clone https://github.com/Nico-MDS/PROYECTO1M5.git
+
+## 🌐 Sitio en producción
+
+🔗 https://proyecto1m5.netlify.app
+
