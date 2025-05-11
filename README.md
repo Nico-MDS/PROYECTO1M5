@@ -1,12 +1,35 @@
-# React + Vite
+# 📊 Indicadores Financieros de Chile
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación web desarrollada con **React + Vite** que permite visualizar los principales indicadores económicos de Chile (como el dólar, IPC, UF, euro, entre otros), consumiendo datos en tiempo real desde la API pública de [https://mindicador.cl](https://mindicador.cl).
 
-Currently, two official plugins are available:
+## 🚀 Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Conexión a API pública chilena de indicadores
+- Visualización de datos históricos en gráficos interactivos
+- Filtro por **rango de fechas personalizado** usando calendarios
+- Tabla sincronizada con el gráfico
+- Diseño responsivo y profesional usando **MUI**
+- Manejo de errores con `ErrorBoundary`
+- Navegación entre páginas con React Router
 
-## Expanding the ESLint configuration
+## 🛠 Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [React Router](https://reactrouter.com/)
+- [MUI (Material UI)](https://mui.com/)
+- [Recharts](https://recharts.org/)
+- [Day.js](https://day.js.org/)
+- [Git + GitHub](https://github.com/)
+- [Netlify](https://www.netlify.com/) *(para despliegue)*
+
+## 📷 Captura de pantalla
+
+![Captura](./screenshot.png) <!-- Puedes subir una imagen o eliminar esta sección -->
+
+## 🔧 Instalación local
+
+1. Clona este repositorio:
+
+```bash
+git clone https://github.com/Nico-MDS/PROYECTO1M5.git
