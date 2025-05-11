@@ -33,12 +33,12 @@ Este proyecto es una aplicación web desarrollada con **React + Vite** que permi
 
 ```bash
 git clone https://github.com/Nico-MDS/PROYECTO1M5.git
-
+```
 ## 🌐 Sitio en producción
 
 🔗 https://proyecto1m5.netlify.app
 
-## ✅ Cumplimiento de requisitos mínimos
+# ✅ Cumplimiento de requisitos mínimos
 Este proyecto cumple con todos los requisitos establecidos para la evaluación:
 
 ## 🧠 REACT
